@@ -33,7 +33,7 @@
 ##### [The process of “Agreement of the supply contract”. Process analysis according to Lean Six Sigma(DMAIC).](https://docs.google.com/document/d/1YCIKY-b0ObQ8KE_hIl-bd-wmqLo6bew5DgLiTcZUySA/edit?usp=sharing)
 ##### [Information systems developers department. System description of Kanban system in statik A3. MIRO](https://miro.com/app/board/o9J_l8GSdts=/). [Description](https://docs.google.com/document/d/1Iwn0sVnUjpljOVrenxXbzrumkvwsfS2k/edit?usp=sharing&ouid=113635535347076390318&rtpof=true&sd=true)
 
-## System analysis
+## System analysis:
 ##### [Sirius. From User Story to Use Case](https://docs.google.com/document/d/1hpeafukQfY2OtREWDnl26-bX9Q47iLUVVCK426EZ6vQ/edit?usp=sharing)
 ##### [Interface for submitting employee requests and collecting information about the application, developed in figma for Sirius projec](https://www.figma.com/proto/hClVUl6OpJxslIk4eGDhcU/Untitled?node-id=6%3A19&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 ##### [Creating users and a company on the website http://users.bugred.ru/. (Postman, REST, HTTP).](https://docs.google.com/document/d/1NQtdBchNvrSLsvDt0ykZ61SIx9RuuwrXPJCe9M7xbY0/edit?usp=sharing)
